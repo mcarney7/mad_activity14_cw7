@@ -83,4 +83,5 @@ class DefaultFirebaseOptions {
     authDomain: 'mad-act14-cw7.firebaseapp.com',
     storageBucket: 'mad-act14-cw7.firebasestorage.app',
   );
+
 }
